@@ -1,5 +1,5 @@
 # Hello World!
-
+-------------
 ## Welcome to my own personal blogz
 
 Here I will share what I know, what I don't know, and what I'm really confused about in hopes of finding answers.
