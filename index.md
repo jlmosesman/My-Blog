@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Hello World!
 
-You can use the [editor on GitHub](https://github.com/jlmosesman/my-blog-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my own personal blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I will share what I know, what I don't know, and what I'm really confused about in hopes of finding answers.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will also be trying to use Markdown in a way that shows I know how to use it, for example by:
 
 ```markdown
-Syntax highlighted code block
+Using headers like 
 
-# Header 1
-## Header 2
-### Header 3
+## This
+and
+# This
 
-- Bulleted
-- List
+creating lists like
 
-1. Numbered
-2. List
+1. This
+and
+2. This
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+and especially **bolding** and _italicizing_ and `coding` accordingly.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### More of me
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jlmosesman/my-blog-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you'd like to see some pictures of me you can visit my [Facebook](https://www.facebook.com/jonathan.mosesman) page and like my things while you're at it, or follow me on [Instagram](https://www.instagram.com/manofmoses/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with coding? Me too. Reach out and message me [here](https://www.facebook.com/jonathan.mosesman) so we can join together on the coding frustrations.
