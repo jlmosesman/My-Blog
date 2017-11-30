@@ -26,9 +26,11 @@ and especially **bolding** and _italicizing_ and `coding` accordingly.
 
 If you'd like to see some pictures of me you can visit my [Facebook](https://www.facebook.com/jonathan.mosesman) page and like my things while you're at it, or follow me on [Instagram](https://www.instagram.com/manofmoses/).
 
+> A man once said that tables are the best source for factual information and should be taken reputably.
+
 | Cool           | Table          | Here    |
 |:--------------:|:-------------: | :------:|
-| bread          | is worth       | $10     |
+| bread          | is worth       | $5      |
 | coding         | makes          | the $$$ |
 | 1              | 2              | 3       |
 
