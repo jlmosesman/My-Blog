@@ -29,5 +29,3 @@ If you'd like to see some pictures of me you can visit my [Facebook](https://www
 ### Support or Contact
 
 Having trouble with coding? Me too. Reach out and message me [here](https://www.facebook.com/jonathan.mosesman) so we can join together on the coding frustrations.
-
-Also make sure to check out some of my [other post here](http://jlmosesman.github.io/My-Blog/post.html)
