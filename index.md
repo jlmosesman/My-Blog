@@ -26,6 +26,12 @@ and especially **bolding** and _italicizing_ and `coding` accordingly.
 
 If you'd like to see some pictures of me you can visit my [Facebook](https://www.facebook.com/jonathan.mosesman) page and like my things while you're at it, or follow me on [Instagram](https://www.instagram.com/manofmoses/).
 
+| Cool           | Table          | Here    |
+|:--------------:|:-------------: | :------:|
+| bread          | is worth       | $10     |
+| coding         | makes          | the $$$ |
+| 1              | 2              | 3       |
+
 ### Support or Contact
 
 Having trouble with coding? Me too. Reach out and message me [here](https://www.facebook.com/jonathan.mosesman) so we can join together on the coding frustrations.
