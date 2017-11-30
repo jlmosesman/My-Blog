@@ -1,13 +1,13 @@
 # Hello World!
 
-## Welcome to my own personal blog
+## Welcome to my own personal blogz
 
 Here I will share what I know, what I don't know, and what I'm really confused about in hopes of finding answers.
 
 I will also be trying to use Markdown in a way that shows I know how to use it, for example by:
 
 ```markdown
-Using headers like 
+Using headers like
 
 ## This
 and
